@@ -1,2 +1,5 @@
 Hello World
 Hello Indonesia
+Hello Bali
+Hello Bandung
+Hello Jakarta
