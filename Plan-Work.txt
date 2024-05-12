@@ -1,8 +1,10 @@
 Rencana Kode Baru
 - Membuat Software
+ * PHP
+ * Java
+ * Python
 - Membuat Pipe Line
   * AirFlow
   * Spark
 - Membuat Data Warehouse
  * GCP
- * Alibaba
