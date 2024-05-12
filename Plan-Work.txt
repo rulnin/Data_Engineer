@@ -1,5 +1,7 @@
 Rencana Kode Baru
 - Membuat Software
+ * PHP
+ * JavaScript
 - Membuat Pipe Line
   * AirFlow
   * Spark
