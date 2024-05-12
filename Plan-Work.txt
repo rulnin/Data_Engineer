@@ -1,0 +1,6 @@
+Rencana Kode Baru
+- Membuat Software
+- Membuat Pipe Line
+  * AirFlow
+  * Spark
+- Membuat Data Warehouse
