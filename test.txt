@@ -1,5 +1,7 @@
 Hello World
 Hello Indonesia
-Hello Bali
 Hello Bandung
 Hello Jakarta
+Hello Kediri
+Hello Malang
+Hello Tangerang
