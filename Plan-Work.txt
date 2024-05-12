@@ -1,0 +1,4 @@
+Rencana Kode Baru
+- Membuat Software
+- Membuat Pipe Line
+- Membuat Data Warehouse
