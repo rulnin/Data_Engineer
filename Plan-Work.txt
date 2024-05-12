@@ -4,3 +4,5 @@ Rencana Kode Baru
   * AirFlow
   * Spark
 - Membuat Data Warehouse
+ * GCP
+ * Alibaba
